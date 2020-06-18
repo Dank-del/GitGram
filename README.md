@@ -8,4 +8,4 @@
 # Deploy on Heroku:
 One-Click Deploy on Heroku Using Button Down Below:
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/pokurt/GitGram)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Dank-del/GitGram)

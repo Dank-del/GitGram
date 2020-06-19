@@ -37,7 +37,7 @@ print("If you need more information contact @YorktownEagleUnion")
 def start(bot, update):
     message = update.effective_message
     message.reply_text(
-        f"This is the Updates watcher for {PROJECT_NAME}\nYou are not authorized to be here",
+        f"This is the Updates watcher for {PROJECT_NAME}\n I'm intended to be used in these chats only",
         parse_mode="markdown")
 
 
